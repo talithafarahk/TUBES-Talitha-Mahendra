@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1490672177 source:e:\tugas\semester 2\asd\tubes\child.cpp
+	"child.h"
+
+1490605329 e:\tugas\semester 2\asd\tubes\child.h
+	<iostream>
+
+1490640008 source:e:\tugas\semester 2\asd\tubes\main.cpp
+	<iostream>
+	<conio.h>
+	"parent.h"
+	"aplikasi.h"
+
+1490629118 e:\tugas\semester 2\asd\tubes\parent.h
+	<iostream>
+
+1490673194 source:e:\tugas\semester 2\asd\tubes\parent.cpp
+	"parent.h"
+	<iostream>
+
+1490677512 e:\tugas\semester 2\asd\tubes\aplikasi.h
+	"parent.h"
+	"child.h"
+	"relasi.h"
+
+1490677546 source:e:\tugas\semester 2\asd\tubes\aplikasi.cpp
+	<conio.h>
+	"aplikasi.h"
+	"parent.h"
+	"child.h"
+	"relasi.h"
+
+1490677555 source:e:\tugas\semester 2\asd\tubes\relasi.cpp
+	"relasi.h"
+	"parent.h"
+	"child.h"
+	<iostream>
+
+1490677492 e:\tugas\semester 2\asd\tubes\relasi.h
+	"parent.h"
+	"child.h"
+	<iostream>
+
